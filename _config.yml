@@ -1,0 +1,8 @@
+title: BestBuy APIs - Open Source Libraries & Projects
+description: 
+google_analytics: UA-6257094-15
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
